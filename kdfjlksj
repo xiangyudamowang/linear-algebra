@@ -1,8 +1,0 @@
-[33mcommit acf1d4200f20a65927c1d5441056a78177e1e526[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: xiangyudamowang <76042518+xiangyudamowang@users.noreply.github.com>
-Date:   Sat Dec 31 18:29:53 2022 +0800
-
-    Initial commit
-
- README.md | 2 [32m++[m
- 1 file changed, 2 insertions(+)
