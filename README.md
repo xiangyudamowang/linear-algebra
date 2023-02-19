@@ -9,3 +9,4 @@ study tool of linear algebra
 4.特征值以及特征向量  
 5.Schmidt正交  
 6.相似矩阵合同矩阵
+7.测试提交回滚
